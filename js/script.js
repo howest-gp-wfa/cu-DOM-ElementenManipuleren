@@ -38,7 +38,7 @@ function initialize() {
       
       //get all the divs using queryselectorAll and class name
       
-      //change the color of third element
+      //change the color of last element
       
 }
 
