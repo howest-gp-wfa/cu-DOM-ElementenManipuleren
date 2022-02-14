@@ -2,14 +2,13 @@
 
 //declare global vars here
  
- var allDivs;
- var divByGetElementById;
- var divByQuerySelector
+ let allDivs;
+ let divByGetElementById;
+ let divByQuerySelector
  
-window.addEventListener('load',Initialize);
+window.addEventListener('load',initialize);
 
-function Initialize()
-{
+function initialize() {
    
    /*single HTMl element selection*/
       //get a single element with getElementById
